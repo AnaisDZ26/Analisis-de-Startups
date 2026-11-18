@@ -1,0 +1,9 @@
+[theme]
+base = "light"
+primaryColor = "#1e8449"
+
+[client]
+toolbarMode = "minimal"      # oculta el menú de desarrollador ante el público
+
+[server]
+headless = true

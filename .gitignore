@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+# Los CSV originales (285 MB) NO se suben: la app solo necesita data/modelo.json
+dataset.zip
+*.csv
